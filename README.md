@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Smart Home Banner](https://via.placeholder.com/800x200/4F46E5/FFFFFF?text=Smart+Home+Automation+Platform)
+![Smart Home Banner](dashboard)
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
